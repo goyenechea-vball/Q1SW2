@@ -1,0 +1,54 @@
+.container1{
+	background-color: #94b2d6 ;
+	text-align: center;
+}
+
+.container2{
+	background-color: #bacfe8;
+	width: 230px;
+	padding: 25px;
+	border: 2px solid #49688f;
+	box-shadow: 2px 2px 20px rgba(0, 0, 0, 0.8);
+	margin: auto;
+}
+
+body{
+	background-image: url('https://i.pinimg.com/originals/2b/43/f2/2b43f27a8d3aca0991b55a458f4932a0.gif');
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+}
+
+label{
+	font-style: bold;
+	font-weight: bold;
+	color: #123259;
+}
+#submit{
+	background-color: #b6d6fc;
+	color: #2e598c;
+	border-radius: 10px;
+	font-size: 15px;
+}
+
+#name{
+	background-color: #d8deeb;
+}
+#age{
+	background-color: #d8deeb;
+}
+#male{
+	background-color: #d8deeb;
+}
+#female{
+	background-color: #d8deeb;
+}
+#sections{
+	background-color: #d8deeb;
+}
+#clubs{
+	background-color: #d8deeb;
+}
+#text{
+	background-color: #d8deeb;
+}
